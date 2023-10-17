@@ -1,0 +1,13 @@
+.review-pie-chart-card {
+    background-color: #ffffff;
+    border: 1px solid #dddddd;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  }
+  
+  .pie-chart-container {
+    margin-top: 20px;
+  }
+  
